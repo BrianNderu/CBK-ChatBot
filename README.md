@@ -10,8 +10,6 @@ The chatbot is bulit on GenAi Stack and finetuned on OpenAi 3.5 Model
 
 The chatbot Currently contains 2023 report but work is ingoing to include more reports
 
-## Limitation 
-OpenAi key may run out due to computation costs
 
 ## Work to be done
-Creating a better interface
+Deployment 
